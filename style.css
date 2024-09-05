@@ -1,0 +1,27 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h2{
+            margin: auto;
+        }
+        form {
+            max-width: 300px;
+            margin: auto;
+        }
+        input[type="text"], input[type="email"], input[type="tel"], textarea[id="address"] {
+            width: 100%;
+            padding: 10px;
+            margin: 4px 0;
+           
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #000000;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+       
